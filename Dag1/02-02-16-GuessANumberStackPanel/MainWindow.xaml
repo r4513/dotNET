@@ -1,0 +1,20 @@
+﻿<Window x:Class="_02_02_16_GuessANumberStackPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_02_02_16_GuessANumberStackPanel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="500" Closing="closingEvent">
+    <StackPanel HorizontalAlignment="Left" Height="250" Margin="10,0,0,0" VerticalAlignment="Bottom" Width="470" Orientation="Vertical">
+        <Label x:Name="label" Content="Guess a number"/>
+        <StackPanel Height="96" Orientation="Horizontal" RenderTransformOrigin="0.502,0.509">
+            <Label x:Name="label1" Content="Your guess:" Margin="10,10,0,56"/>
+            <TextBox x:Name="guessTextBox" TextWrapping="Wrap" Text="0" Width="120" Margin="10,10,0,56" />
+            <Button x:Name="guessButton" Content="Make Guess" Width="75" Margin="10,10,0,56" Click="button_Click"/>
+        </StackPanel>
+        <Label x:Name="resultLabel" Content="Label"/>
+        <Button x:Name="tryAgainButton" Content="Try again" Margin="0,0,358,0" Height="30" Click="button1_Click"/>
+
+    </StackPanel>
+</Window>

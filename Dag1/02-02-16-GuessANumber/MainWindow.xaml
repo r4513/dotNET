@@ -1,0 +1,18 @@
+﻿<Window x:Class="_02_02_16_GuessANumber.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_02_02_16_GuessANumber"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="300" Closing="closingEvent">
+    <Grid Loaded="MyWindow_Loaded">
+        <Label x:Name="questLabel" Content="Guess a number between 1 and 100" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="guessLabel" Content="Your guess:" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="guessTextBox" HorizontalAlignment="Left" Width="50" Height="25" Margin="90,50,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" PreviewTextInput="checkDigit"/>
+        <Button x:Name="guessButton" Content="Guess" HorizontalAlignment="Left" Margin="160,53,0,0" VerticalAlignment="Top" Width="75" Click="onGuessButtonAction"/>
+        <Label x:Name="resultLabel" Content="Make a guess" HorizontalAlignment="Left" Margin="10,80,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="tryAgainButton" Content="Try again" HorizontalAlignment="Left" Margin="10,110,0,0" VerticalAlignment="Top" Width="75" Click="onTryAgainButtonAction"/>
+
+    </Grid>
+</Window>
