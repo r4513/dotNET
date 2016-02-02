@@ -12,3 +12,4 @@ D:\VisualStudioWorkspace\Dag1\02-02-16-GuessANumber\obj\Debug\_02_02_16_GuessANu
 D:\VisualStudioWorkspace\Dag1\02-02-16-GuessANumber\obj\Debug\02-02-16-GuessANumber.csproj.GenerateResource.Cache
 D:\VisualStudioWorkspace\Dag1\02-02-16-GuessANumber\obj\Debug\02-02-16-GuessANumber.exe
 D:\VisualStudioWorkspace\Dag1\02-02-16-GuessANumber\obj\Debug\02-02-16-GuessANumber.pdb
+C:\Users\AmOgMusen\Documents\dotNET\Dag1\02-02-16-GuessANumber\bin\Debug\02-02-16-GuessANumber.exe.config

@@ -1,0 +1,14 @@
+C:\Users\AmOgMusen\Documents\dotNET\Dag1\02-02-16-DatabindingAndList\bin\Debug\02-02-16-DatabindingAndList.exe.config
+C:\Users\AmOgMusen\Documents\dotNET\Dag1\02-02-16-DatabindingAndList\obj\Debug\02-02-16-DatabindingAndList.csprojResolveAssemblyReference.cache
+C:\Users\AmOgMusen\Documents\dotNET\Dag1\02-02-16-DatabindingAndList\obj\Debug\MainWindow.g.cs
+C:\Users\AmOgMusen\Documents\dotNET\Dag1\02-02-16-DatabindingAndList\obj\Debug\App.g.cs
+C:\Users\AmOgMusen\Documents\dotNET\Dag1\02-02-16-DatabindingAndList\obj\Debug\02-02-16-DatabindingAndList_MarkupCompile.cache
+C:\Users\AmOgMusen\Documents\dotNET\Dag1\02-02-16-DatabindingAndList\obj\Debug\02-02-16-DatabindingAndList_MarkupCompile.lref
+C:\Users\AmOgMusen\Documents\dotNET\Dag1\02-02-16-DatabindingAndList\bin\Debug\02-02-16-DatabindingAndList.exe
+C:\Users\AmOgMusen\Documents\dotNET\Dag1\02-02-16-DatabindingAndList\bin\Debug\02-02-16-DatabindingAndList.pdb
+C:\Users\AmOgMusen\Documents\dotNET\Dag1\02-02-16-DatabindingAndList\obj\Debug\MainWindow.baml
+C:\Users\AmOgMusen\Documents\dotNET\Dag1\02-02-16-DatabindingAndList\obj\Debug\02-02-16-DatabindingAndList.g.resources
+C:\Users\AmOgMusen\Documents\dotNET\Dag1\02-02-16-DatabindingAndList\obj\Debug\_02_02_16_DatabindingAndList.Properties.Resources.resources
+C:\Users\AmOgMusen\Documents\dotNET\Dag1\02-02-16-DatabindingAndList\obj\Debug\02-02-16-DatabindingAndList.csproj.GenerateResource.Cache
+C:\Users\AmOgMusen\Documents\dotNET\Dag1\02-02-16-DatabindingAndList\obj\Debug\02-02-16-DatabindingAndList.exe
+C:\Users\AmOgMusen\Documents\dotNET\Dag1\02-02-16-DatabindingAndList\obj\Debug\02-02-16-DatabindingAndList.pdb
