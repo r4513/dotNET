@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_02_02_16_DatabindingAndList"
         mc:Ignorable="d"
-        Title="MainWindow" Height="400" Width="525" Loaded="Start">
+        Title="DatabindingAndList" Height="400" Width="525" Loaded="Start">
     <StackPanel HorizontalAlignment="Left" Height="370" Margin="0,0,0,0" VerticalAlignment="Top" Orientation="Vertical">
         <StackPanel Height="200" Orientation="Horizontal" Margin="10,10,10,10" Width="495">
             <ListBox x:Name="lBoxPersons" Width="200" Margin="10,10,10,10" SelectionChanged="lBoxPersonsSelectionChanged"/>

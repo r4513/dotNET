@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_02_02_16_GuessANumber"
         mc:Ignorable="d"
-        Title="MainWindow" Height="200" Width="300" Closing="closingEvent">
+        Title="Guess a number game" Height="200" Width="300" Closing="closingEvent">
     <Grid Loaded="MyWindow_Loaded">
         <Label x:Name="questLabel" Content="Guess a number between 1 and 100" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
         <Label x:Name="guessLabel" Content="Your guess:" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top"/>

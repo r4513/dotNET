@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_02_02_16_GuessANumberStackPanel"
         mc:Ignorable="d"
-        Title="MainWindow" Height="300" Width="500" Closing="closingEvent">
+        Title="Guess a number game" Height="300" Width="500" Closing="closingEvent">
     <StackPanel HorizontalAlignment="Left" Height="250" Margin="10,0,0,0" VerticalAlignment="Bottom" Width="470" Orientation="Vertical">
         <Label x:Name="label" Content="Guess a number"/>
         <StackPanel Height="96" Orientation="Horizontal" RenderTransformOrigin="0.502,0.509">
