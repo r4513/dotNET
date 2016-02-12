@@ -1,0 +1,28 @@
+C:\vs_proj2008_06i\test\indexer\indexer\bin\Debug\indexer.exe
+C:\vs_proj2008_06i\test\indexer\indexer\bin\Debug\indexer.pdb
+C:\vs_proj2008_06i\test\indexer\indexer\obj\Debug\ResolveAssemblyReference.cache
+C:\vs_proj2008_06i\test\indexer\indexer\obj\Debug\indexer.exe
+C:\vs_proj2008_06i\test\indexer\indexer\obj\Debug\indexer.pdb
+C:\vs_proj2008_06i\demo\indexer\indexer\obj\Debug\indexer.exe
+C:\vs_proj2008_06i\demo\indexer\indexer\obj\Debug\indexer.pdb
+C:\vs_proj2008_06i\demo\indexer\indexer\bin\Debug\indexer.exe
+C:\vs_proj2008_06i\demo\indexer\indexer\bin\Debug\indexer.pdb
+C:\vs_proj2008_06i\demo\indexer\indexer\obj\Debug\ResolveAssemblyReference.cache
+Z:\2013-SPRING\11S-C#-ATM\Dag 03 Classes\indexer\indexer\obj\Debug\indexer.exe
+Z:\2013-SPRING\11S-C#-ATM\Dag 03 Classes\indexer\indexer\obj\Debug\indexer.pdb
+Z:\2013-SPRING\11T-C#\Day 03 - C# sproget 2\indexer\indexer\obj\Debug\indexer.exe
+Z:\2013-SPRING\11T-C#\Day 03 - C# sproget 2\indexer\indexer\obj\Debug\indexer.pdb
+Z:\2013-SPRING\11T-C#\Day 03 - C# sproget 2\indexer\indexer\bin\Debug\indexer.exe
+Z:\2013-SPRING\11T-C#\Day 03 - C# sproget 2\indexer\indexer\bin\Debug\indexer.pdb
+Z:\2013-SPRING\11T-C#\Day 03 - C# sproget 2\indexer\indexer\obj\Debug\indexer.csprojResolveAssemblyReference.cache
+Z:\2014-H1-SPRING\12I-C#\Day03 C# language 2\indexer\indexer\obj\Debug\indexer.exe
+Z:\2014-H1-SPRING\12I-C#\Day03 C# language 2\indexer\indexer\obj\Debug\indexer.pdb
+Z:\2014-H1-SPRING\12I-C#\Day03 C# language 2\indexer\indexer\bin\Debug\indexer.exe
+Z:\2014-H1-SPRING\12I-C#\Day03 C# language 2\indexer\indexer\bin\Debug\indexer.pdb
+Z:\2014-H1-SPRING\12I-C#\Day03 C# language 2\indexer\indexer\obj\Debug\indexer.csprojResolveAssemblyReference.cache
+Z:\13I-C#\Day02 C# language 1\indexer\indexer\bin\Debug\indexer.exe.config
+Z:\13I-C#\Day02 C# language 1\indexer\indexer\obj\Debug\indexer.exe
+t:\dmu\4sem\SPEC\13I-mlch-benn-F15\Day02 C# language 1\indexer\indexer\bin\Debug\indexer.exe.config
+t:\dmu\4sem\SPEC\13I-mlch-benn-F15\Day02 C# language 1\indexer\indexer\obj\Debug\indexer.exe
+c:\DMU\14V\CSharp\Dag03\Example projects\indexer\indexer\bin\Debug\indexer.exe.config
+c:\DMU\14V\CSharp\Dag03\Example projects\indexer\indexer\obj\Debug\indexer.exe
