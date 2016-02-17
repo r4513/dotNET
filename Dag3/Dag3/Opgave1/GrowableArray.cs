@@ -14,6 +14,11 @@ namespace Opgave1
             g[0] = 7;
             g[1] = 9;
             g[2] = 13;
+            int[] a = g.Arr;
+            foreach (var item in a)
+            {
+                Console.WriteLine(item);
+            }
             Console.WriteLine(g[2]);
             Console.ReadLine();
         }
@@ -23,7 +28,13 @@ namespace Opgave1
             this.arr = new int[16];
         }
 
-        public int[] arr;
+        private int[] arr;
+
+        public int[] Arr
+        {
+            get { return arr; }
+            set { arr = value; }
+        }
 
         public int this[int i]
         {
